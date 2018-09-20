@@ -50,7 +50,14 @@ namespace jsZip
 					{
 						JavaScriptCompressor js = new JavaScriptCompressor(strContent, false, encoder, System.Globalization.CultureInfo.CurrentCulture);
 						strContent = js.Compress();
-					}
+                        #region function前加分号
+                        strContent = strContent.Replace("function ", ";function ");
+                        strContent = strContent.Replace("(;function ", "(function ");
+                        strContent = strContent.Replace(";;function ", ";function ");
+                        strContent = strContent.Replace("; ;function ", ";function ");
+                        strContent = strContent.Replace(": ;function ", ": function ");
+                        #endregion
+                    }
 					else if (file.Extension.ToLower() == ".css")
 					{
 						strContent = CssCompressor.Compress(strContent);

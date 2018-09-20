@@ -9,3 +9,13 @@ C:\Users\Administrator\Desktop\jsZip\obj\Debug\jsZip.exe
 C:\Users\Administrator\Desktop\jsZip\obj\Debug\jsZip.pdb
 C:\Users\Administrator\Desktop\jsZip\bin\Debug\EcmaScript.NET.modified.dll
 C:\Users\Administrator\Desktop\jsZip\bin\Debug\Iesi.Collections.dll
+E:\my\git\jsZip\jsZip\obj\Debug\jsZip.exe
+E:\my\git\jsZip\jsZip\obj\Debug\jsZip.pdb
+E:\my\git\jsZip\jsZip\bin\Debug\jsZip.exe
+E:\my\git\jsZip\jsZip\bin\Debug\jsZip.pdb
+E:\my\git\jsZip\jsZip\bin\Debug\EcmaScript.NET.modified.dll
+E:\my\git\jsZip\jsZip\bin\Debug\Iesi.Collections.dll
+E:\my\git\jsZip\jsZip\obj\Debug\jsZip.csprojResolveAssemblyReference.cache
+E:\my\git\jsZip\jsZip\obj\Debug\jsZip.Form1.resources
+E:\my\git\jsZip\jsZip\obj\Debug\jsZip.Properties.Resources.resources
+E:\my\git\jsZip\jsZip\obj\Debug\jsZip.csproj.GenerateResource.Cache
