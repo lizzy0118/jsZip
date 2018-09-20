@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\jsZip\bin\Debug\jsZip.exe
+C:\Users\Administrator\Desktop\jsZip\bin\Debug\jsZip.pdb
+C:\Users\Administrator\Desktop\jsZip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\jsZip\obj\Debug\jsZip.Form1.resources
+C:\Users\Administrator\Desktop\jsZip\obj\Debug\jsZip.Properties.Resources.resources
+C:\Users\Administrator\Desktop\jsZip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\jsZip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\jsZip\obj\Debug\jsZip.exe
+C:\Users\Administrator\Desktop\jsZip\obj\Debug\jsZip.pdb
+C:\Users\Administrator\Desktop\jsZip\bin\Debug\EcmaScript.NET.modified.dll
+C:\Users\Administrator\Desktop\jsZip\bin\Debug\Iesi.Collections.dll

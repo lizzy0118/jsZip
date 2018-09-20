@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\jsZip\jsZip\obj\Release\jsZip.exe
+C:\Users\lenovo\Desktop\jsZip\jsZip\obj\Release\jsZip.pdb
+C:\Users\lenovo\Desktop\jsZip\jsZip\bin\Release\jsZip.exe
+C:\Users\lenovo\Desktop\jsZip\jsZip\bin\Release\jsZip.pdb
+C:\Users\lenovo\Desktop\jsZip\jsZip\obj\Release\jsZip.Form1.resources
+C:\Users\lenovo\Desktop\jsZip\jsZip\obj\Release\jsZip.Properties.Resources.resources
+C:\Users\lenovo\Desktop\jsZip\jsZip\obj\Release\jsZip.csproj.GenerateResource.Cache
