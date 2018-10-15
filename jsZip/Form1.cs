@@ -57,12 +57,14 @@ namespace jsZip
                         strContent = strContent.Replace("; ;function ", ";function ");
                         strContent = strContent.Replace(": ;function ", ": function ");
                         #endregion
+                        
                     }
 					else if (file.Extension.ToLower() == ".css")
 					{
 						strContent = CssCompressor.Compress(strContent);
-					}
-					File.WriteAllText(newFile.FullName, strContent);
+                    }
+                    strContent = strContent.Replace("@media only screen and", " @media only screen and ");
+                    File.WriteAllText(newFile.FullName, strContent);
 					this.ListFile.Items[i].ForeColor = Color.Blue;
 					this.ListFile.Items[i].SubItems[2].Text = FormatSize(strContent.Length);
 					this.ListFile.Items[i].SubItems[3].Text = "完成";
