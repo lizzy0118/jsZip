@@ -64,6 +64,7 @@ namespace jsZip
 						strContent = CssCompressor.Compress(strContent);
                     }
                     strContent = strContent.Replace("@media only screen and", " @media only screen and ");
+                    strContent = strContent.Replace("@media screen and", " @media screen and ");
                     File.WriteAllText(newFile.FullName, strContent);
 					this.ListFile.Items[i].ForeColor = Color.Blue;
 					this.ListFile.Items[i].SubItems[2].Text = FormatSize(strContent.Length);
